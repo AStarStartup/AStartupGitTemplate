@@ -1,7 +1,7 @@
 ---
 name: Artifact
 about: A report of an artifact that is left over from a Change.
-title: 'Artifact.'
+title: 'Artifact'
 labels: ''
 assignees: 'CookingWithCale'
 ---
@@ -14,7 +14,6 @@ assignees: 'CookingWithCale'
 
 1. `*.*
 
-
 ## License
 
-Copyright 2022 © [Cale McCollough](https://cookingwithcale.org); all rights reserved.
+Copyright 2023 [AStartup](https://astartup.net); all rights reserved.
